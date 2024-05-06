@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Webview App</string>
+<!--    <string name="website_to_open">https://google.com</string>-->
+    <string name="website_to_open">https://github.com/</string>
+</resources>
